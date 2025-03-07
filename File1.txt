@@ -1,18 +1,2 @@
-<<<<<<< HEAD
-This is a file1 in main.
-main
-main
-main
-main
-main
-
-=======
-This is a file1 in branch1.
-branch1
-branch1
-branch1
-branch1
-branch1
->>>>>>> branch1
-
+This is main
 branch1: hi hello dirty fellow
